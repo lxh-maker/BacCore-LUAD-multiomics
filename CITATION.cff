@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use this software or its source data, please cite the accompanying article and archived release."
+title: "BacCore-LUAD multiomics analysis"
+type: software
+authors:
+  - family-names: Liu
+    given-names: Xiaohan
+  - family-names: Zhang
+    given-names: Dong
+    email: zhangdong@sdutcm.edu.cn
+repository-code: "https://github.com/lxh-maker/BacCore-LUAD-multiomics"
+version: 1.0.0
+date-released: 2026-11-05
+license: MIT
+keywords:
+  - Baciptosis
+  - lung adenocarcinoma
+  - multiomics
+  - mitochondrial stress
+  - bioinformatics
+
+
